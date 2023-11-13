@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3c11ba3c5",
+  "policyUUID": "c11ba3c5",
+  "bucketName": "miniproject695b6690efea4830b9a658591fb4b60f",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

@@ -17,6 +17,9 @@
       },
       "api": {
         "miniproject": {}
+      },
+      "storage": {
+        "s3c11ba3c5": {}
       }
     }
   }
